@@ -6,3 +6,8 @@
 ```
 pageTitle = </TITLE><SCRIPT> alert(2)</SCRIPT><!–
 ```
+
+
+# 11 July 2017 - codewars
+* XSS via linkedin profile URL
+* XSS via stackoverflow profile URL
