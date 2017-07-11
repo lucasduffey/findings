@@ -1,6 +1,6 @@
 # findings
 * TODO: the RCE one
-* persistent XSS via clans name in codewars - they don't reply
+* persistent XSS via clans name in codewars (https://github.com/Codewars/codewars.com/issues/1034)
 * SQL injection in BSidesROC CTF scoring server [link](https://twitter.com/BSidesROC/status/320574435180552195) (6 Apr 2013) 
 * XSS in hackertyper (26 April 2011)
 ```
