@@ -1,6 +1,6 @@
 # findings
 * TODO: the RCE one
-* persistent XSS in [undisclosed] - need to wait until they patch it
+* persistent XSS via clans name in codewars - they don't reply
 * SQL injection in BSidesROC CTF scoring server [link](https://twitter.com/BSidesROC/status/320574435180552195) (6 Apr 2013) 
 * XSS in hackertyper (26 April 2011)
 ```
