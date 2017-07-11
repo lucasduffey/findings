@@ -9,6 +9,6 @@ pageTitle = </TITLE><SCRIPT> alert(2)</SCRIPT><!–
 
 
 # 11 July 2017 - codewars
-* XSS via linkedin profile URL
+* XSS via linkedin profile URL (https://github.com/Codewars/codewars.com/issues/1032)
 * XSS via stackoverflow profile URL
 * twitter - they escape `"` and `<>`. Probably safe.
