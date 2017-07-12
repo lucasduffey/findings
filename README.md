@@ -16,6 +16,5 @@
 pageTitle = </TITLE><SCRIPT> alert(2)</SCRIPT><!–
 ```
 
-# android RCE (2012 or 2013)
-* https://docs.google.com/presentation/d/18Fm2gWo36BrbH2rl0mFqB2bZ_s_sL7SV50c10lfBtSQ/edit?usp=sharing
-* TODO: more details
+# android Metro PCS RCE (2012 or 2013)
+* Metro PCS RCE: https://docs.google.com/presentation/d/18Fm2gWo36BrbH2rl0mFqB2bZ_s_sL7SV50c10lfBtSQ/edit?usp=sharing
