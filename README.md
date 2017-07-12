@@ -10,6 +10,6 @@ pageTitle = </TITLE><SCRIPT> alert(2)</SCRIPT><!–
 # 11 July 2017 - codewars
 * persistent XSS via clans name in codewars (https://github.com/Codewars/codewars.com/issues/1034)
   * found a lot earlier (~3 June 2017), but they didn't reply to emails
+  * pretty sure it's still vulnerable after "patch". Zero recognition, so I'm not going to bother looking.
 * persistent XSS via linkedin profile URL (https://github.com/Codewars/codewars.com/issues/1032)
 * persistent XSS via stackoverflow profile URL (https://github.com/Codewars/codewars.com/issues/1033)
-* twitter - they escape `"` and `<>`. Probably safe.
