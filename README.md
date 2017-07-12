@@ -9,6 +9,8 @@
      * https://www.codewars.com/users/USER_YOU_ARE_FOLLOWING_BE_HERE/following
 * persistent XSS via linkedin profile URL (https://github.com/Codewars/codewars.com/issues/1032)
 * persistent XSS via stackoverflow profile URL (https://github.com/Codewars/codewars.com/issues/1033)
+* persistent XSS via new kata in `description field`
+  * http://www.codewars.com/kata/new/c
 
 # BSidesROC CTF scoring server (6 Apr 2013) 
 * SQL injection in BSidesROC CTF scoring server [link](https://twitter.com/BSidesROC/status/320574435180552195) 
