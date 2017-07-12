@@ -9,6 +9,8 @@
   * NEW PoCS:
     * `"}; alert(/clan/);//`
     * `"; <script>alert(/clan/);</script>`
+    * `App.currentUser = {"username":"STUFF_HERE,"email":"STUFF_HERE","name":"","company":"\"\"`, 2:3}; alert(/clan/);//","`
+     * I don't think this is exploitable
    * repro via
      * https://www.codewars.com/users/USER_YOU_ARE_FOLLOWING_BE_HERE/following
 * persistent XSS via linkedin profile URL (https://github.com/Codewars/codewars.com/issues/1032)
