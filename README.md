@@ -17,5 +17,5 @@ pageTitle = </TITLE><SCRIPT> alert(2)</SCRIPT><!–
 ```
 
 # misc findings
-* TODO: the android RCE one
+* TODO: the android ZTE/Tmobile/?? RCE one
 
