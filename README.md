@@ -18,4 +18,5 @@ pageTitle = </TITLE><SCRIPT> alert(2)</SCRIPT><!–
 
 # misc findings
 * TODO: the android ZTE/Tmobile/?? RCE one
+  * https://docs.google.com/presentation/d/18Fm2gWo36BrbH2rl0mFqB2bZ_s_sL7SV50c10lfBtSQ/edit?usp=sharing
 
