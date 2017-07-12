@@ -1,5 +1,6 @@
 # android VULNS
 * TODO: paste the notes on stuff they didn't care about
+* TODO: add my patches here
 
 # multiple XSS in codewars (11 July 2017)
 * [UNFIXED] persistent XSS via clans name in codewars (https://github.com/Codewars/codewars.com/issues/1034)
