@@ -1,5 +1,5 @@
 # misc findings
-* TODO: the RCE one
+* TODO: the android RCE one
 
 # BSidesROC CTF scoring server (6 Apr 2013) 
 * SQL injection in BSidesROC CTF scoring server [link](https://twitter.com/BSidesROC/status/320574435180552195) 
