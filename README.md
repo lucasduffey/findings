@@ -5,6 +5,8 @@
   * NEW PoCS:
     * `"}; alert(/clan/);//`
     * `"; <script>alert(/clan/);</script>`
+   * repro via
+     * https://www.codewars.com/users/USER_YOU_ARE_FOLLOWING_BE_HERE/following
 * persistent XSS via linkedin profile URL (https://github.com/Codewars/codewars.com/issues/1032)
 * persistent XSS via stackoverflow profile URL (https://github.com/Codewars/codewars.com/issues/1033)
 
