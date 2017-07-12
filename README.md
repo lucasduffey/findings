@@ -12,7 +12,7 @@ pageTitle = </TITLE><SCRIPT> alert(2)</SCRIPT><!–
 # codewars vulns (11 July 2017)
 * persistent XSS via clans name in codewars (https://github.com/Codewars/codewars.com/issues/1034)
   * found/reported much earlier (~3 June 2017), but they don't reply to any contact attempts
-  * pretty sure it's still vulnerable after "patch". Zero recognition, so I'm not going to bother looking.
+  * they partially patched on 12 July, but I can still exploit
   * NEW PoCS:
     * `"}; alert(/clan/);//`
     * `"; <script>alert(/clan/);</script>`
