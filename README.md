@@ -2,6 +2,10 @@
 * TODO: paste the notes on stuff they didn't care about
 * TODO: add my patches here
 
+# CVE-2017-2820
+* https://www.ubuntu.com/usn/usn-3350-1/
+* I reported this to ubuntu security, but they did nothing
+
 # multiple XSS in codewars (11 July 2017)
 * [UNFIXED] persistent XSS via clans name in codewars (https://github.com/Codewars/codewars.com/issues/1034)
   * found/reported much earlier (~3 June 2017), but they don't reply to any contact attempts
