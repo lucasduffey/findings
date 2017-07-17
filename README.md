@@ -7,9 +7,9 @@
 * I reported this to ubuntu security, but they did nothing.
 
 # multiple XSS in codewars (11 July 2017)
-* [UNFIXED] persistent XSS via clans name in codewars (https://github.com/Codewars/codewars.com/issues/1034)
+* [PARTIAL FIX] persistent XSS via clans name in codewars (https://github.com/Codewars/codewars.com/issues/1034)
   * found/reported much earlier (~3 June 2017), but they don't reply to any contact attempts
-  * they partially patched on 12 July, but I can still exploit
+  * partially patched on 12 July, but I can still exploit
   * NEW PoCS:
     * `"}; alert(/clan/);//`
     * `"; <script>alert(/clan/);</script>`
@@ -17,6 +17,9 @@
      * I don't think this is exploitable
    * repro via
      * https://www.codewars.com/users/USER_YOU_ARE_FOLLOWING_BE_HERE/following
+* [UNFIXED] persistent XSS via clan name (https://github.com/Codewars/codewars.com/issues/1040)
+  * set clan field to `"; <script>alert(/clan/);</script>`
+  * go to https://www.codewars.com/dashboard to repro
 * persistent XSS via linkedin profile URL (https://github.com/Codewars/codewars.com/issues/1032)
 * persistent XSS via stackoverflow profile URL (https://github.com/Codewars/codewars.com/issues/1033)
 * [UNFIXED] persistent XSS in new kata via `description field` (https://github.com/Codewars/codewars.com/issues/1036)
