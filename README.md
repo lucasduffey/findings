@@ -4,7 +4,7 @@
 
 # CVE-2017-2820 or CVE-2017-9083
 * https://www.ubuntu.com/usn/usn-3350-1/
-* I reported this to ubuntu security, but they did nothing.
+* I reported this to ubuntu security, but they did nothing because I didn't try to get a CVE.
 
 # multiple XSS in codewars (11 July 2017)
 * [UNFIXED] persistent XSS via clan name (https://github.com/Codewars/codewars.com/issues/1040)
