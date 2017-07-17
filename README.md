@@ -22,7 +22,7 @@
   * go to https://www.codewars.com/dashboard to repro
 * persistent XSS via linkedin profile URL (https://github.com/Codewars/codewars.com/issues/1032)
 * persistent XSS via stackoverflow profile URL (https://github.com/Codewars/codewars.com/issues/1033)
-* [won't fix] self-XSS in new kata via `description field` (https://github.com/Codewars/codewars.com/issues/1036)
+* [WONTFIX] self-XSS in new kata via `description field` (https://github.com/Codewars/codewars.com/issues/1036)
 
 # BSidesROC CTF scoring server (6 Apr 2013) 
 * SQL injection in BSidesROC CTF scoring server [link](https://twitter.com/BSidesROC/status/320574435180552195) 
