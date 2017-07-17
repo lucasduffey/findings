@@ -1,6 +1,6 @@
-# android VULNS
+# android VULNS and patches
 * TODO: paste the notes on stuff they didn't care about
-* TODO: add my patches here
+* https://android-review.googlesource.com/#/c/342769/
 
 # CVE-2017-2820 or CVE-2017-9083
 * https://www.ubuntu.com/usn/usn-3350-1/
