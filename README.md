@@ -2,6 +2,9 @@
 * TODO: paste the notes on stuff they didn't care about
 * https://android-review.googlesource.com/#/c/342769/
 
+# misc
+* blockchain-snaps downloading source over HTTP (https://github.com/elopio/blockchain-snaps/issues/12)
+
 # CVE-2017-2820 or CVE-2017-9083
 * https://www.ubuntu.com/usn/usn-3350-1/
 * I reported this to ubuntu security, but they did nothing because I didn't try to get a CVE.
