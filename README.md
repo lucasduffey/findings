@@ -11,7 +11,7 @@
 
 # multiple XSS in codewars (11 July 2017)
 * [UNFIXED] persistent XSS via clan name (https://github.com/Codewars/codewars.com/issues/1040)
-  * set clan field to `"; <script>alert(/clan/);</script>`
+  * set clan field to `<script>alert(/clan/);</script>`
   * go to https://www.codewars.com/dashboard to repro
 * [PARTIAL FIX] persistent XSS via clans name in codewars (https://github.com/Codewars/codewars.com/issues/1034)
   * found/reported much earlier (~3 June 2017), but they don't reply to any contact attempts
