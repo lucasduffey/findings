@@ -1,0 +1,3 @@
+lots of leaked memory
+* no use of nl_cb_put(s_cb);
+* nla_put_failure doesn't free cb
