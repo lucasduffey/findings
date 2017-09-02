@@ -7,7 +7,7 @@ static void print_mcs_index(const __u8 *mcs)
 
 	for (mcs_bit = 0; mcs_bit <= 76; mcs_bit++) {
 		unsigned int mcs_octet = mcs_bit/8;
-		unsigned int MCS_RATE_BIT = 1 << mcs_bit % 8;
+		unsigned int MCS_RATE_BIT = 1 << mcs_bit % 8; // MCS_RATE_BIT shouldn't be capitalized
 		bool mcs_rate_idx_set;
 
 		mcs_rate_idx_set = !!(mcs[mcs_octet] & MCS_RATE_BIT);
